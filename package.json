@@ -1,0 +1,22 @@
+{
+  "name": "am-03127-led-api-frontend",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite --host 0.0.0.0",
+    "build": "vite build",
+    "preview": "vite preview --port 4173"
+  },
+  "dependencies": {
+    "autoprefixer": "^10.4.12",
+    "axios": "^0.27.2",
+    "daisyui": "^2.31.0",
+    "dotenv": "^16.0.2",
+    "postcss": "^8.4.16",
+    "tailwindcss": "^3.1.8",
+    "vue": "^3.2.38"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.0.3",
+    "vite": "^3.0.9"
+  }
+}
